@@ -16,6 +16,4 @@ or the server point of view. Server side web log analysis reveals information
 about availability of this servers, vulnerability of servers, security loop holes
 of servers, user unfriendliness of the web site etc, and a web site designer can
 gain a lot from web log analysis for the desired improvement of the services and
-web site design. The client are better served if a web log analysis for clients
-reveals information about frequency of the usage of particular web page etc for
-performing pre fetching and caching of pages.
+web site design. 
