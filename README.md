@@ -1,8 +1,5 @@
  # WEB LOG ANALYSIS
-Here i attempt to apply an efficient algorithm for web log analysis. The results
-obtained from the web log analysis may be applied to a class of problems from
-search engines in order to identify the context on the basis of association to web
-site design of a e-commerce web portal that demands security. Web log mining
+Here i attempt to apply an efficient algorithm for web log analysis.  Web log mining
 is a generic outcome of web usage mining. Web log contain related information
 of web access of different users including agents and knowbots. Web usage
 mining may be performed for web access patterns making use of web page visit
