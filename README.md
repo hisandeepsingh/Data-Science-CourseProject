@@ -1,5 +1,5 @@
  # WEB LOG ANALYSIS
-Here i attempt to apply an efficient algorithm for web log analysis. The results
+ The results
 obtained from the web log analysis may be applied to a class of problems from
 search engines in order to identify the context on the basis of association to web
 site design of a e-commerce web portal that demands security. Web log mining
